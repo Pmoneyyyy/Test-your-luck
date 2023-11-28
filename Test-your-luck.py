@@ -17,6 +17,7 @@ enemyNames = [
     "sdofjsdf",
 ]
 
+# This function shows the game instructions 
 def displayInstructions():
     gameInstructions = "There are 10 levels. Player has to choose 1 or 2. If it's correct you move on to the next level."
 
